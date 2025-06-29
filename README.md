@@ -42,6 +42,8 @@ I'm a self-driven software engineer from **Egypt**, passionate about building op
 ### 📬 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40boodylinux-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/AbdalrahmnEissa)
+
+
 [![ProtonMail](https://img.shields.io/badge/Email-abdalrahmaneissaa%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abdalrahmaneissaa@proton.me)
 
 _Always learning. Always building. Always Linux._ 🐧
